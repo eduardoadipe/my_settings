@@ -1,0 +1,35 @@
+{
+    "python.pythonPath": "python3",
+    "window.zoomLevel": 1,
+    "editor.minimap.enabled": false,
+    "files.associations": {
+        "*.module": "php"
+    },
+    "color-highlight.markerType": "dot-before",
+    "workbench.colorTheme": "Community Material Theme Palenight High Contrast",
+    "editor.semanticHighlighting.enabled": false,
+    "workbench.colorCustomizations": {
+        "[Community Material Theme Palenight High Contrast]": {
+            "contrastBorder": "#31364A",
+            "sideBar.background": "#101320",
+            "sideBarSectionHeader.background": "#292D3E",
+            "sideBarSectionHeader.border": "#494D5E",
+            "tab.inactiveBackground": "#31364A",
+            "tab.border": "#31364A",
+            "tab.activeBorder": "#242736",
+            "editor.background": "#242736",
+            "breadcrumb.background": "#242736",
+            "editorGroupHeader.tabsBackground": "#31364a",
+            "statusBar.background": "#101320",
+            "list.inactiveSelectionBackground": "#122434",
+            "list.inactiveSelectionForeground": "#AFEFEF",
+            "list.activeSelectionBackground": "#183651",
+            "list.activeSelectionForeground": "#AFEFEF",
+        }
+    },
+    "breadcrumbs.enabled": true,
+    "workbench.iconTheme": "eq-material-theme-icons-palenight",
+    "editor.columnSelection": false,
+    "git.autofetch": true,
+    "liveServer.settings.donotShowInfoMsg": true,
+}
